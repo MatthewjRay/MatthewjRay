@@ -1,13 +1,5 @@
 # **Hi there. My name is Matt. Nice to meet you!**
-### I’m currently working on my MS in Data Science.
-### My interest lies in the intersection of Data Science and Behavioral Science.
-### - [More About Me](https://www.mattjray.com/)
-#
-### Fun facts:
-#### - I was once a professional chef.:stew:
-#### - I am learning how to surf.:surfer:
-#### - I am a certified advanced scuba diver.:swimmer: 
-<!--
+
 **MatthewjRay/MatthewjRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
